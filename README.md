@@ -9,7 +9,7 @@ This is a Spring Boot-based REST API for a social networking platform.
 
 ## 1. Setup & Installation
 ```bash
-git clone https://github.com/ats1999/highlevel-social-app.git
+git clone https://github.com/ats1999/highlevel-social-network.git
 cd highlevel-social-network
 mvn clean install
 ```
